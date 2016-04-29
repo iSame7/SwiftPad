@@ -10,6 +10,10 @@ SiwftPad is a simple Swift editor written in Swift. It uses [SourceKitten][sourc
 
 [sourcekitten]: https://github.com/jpsim/SourceKitten
 
+## Screenshot
+Screenshot of the SwiftPad OS X app.
+<img src="./screenshot.png" />
+
 ## Roadmap
 - [x] Swift syntax highlighting.
 - [ ] Swift code folding.
