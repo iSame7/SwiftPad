@@ -5,8 +5,6 @@
 </h3>
 
 # SwiftPad
-Marvel
-========================
 
 ![Mac OS X](https://img.shields.io/badge/os-Mac%20OS%20X-green.svg?style=flat)
 [![Language](http://img.shields.io/badge/language-swift-brightgreen.svg?style=flat
@@ -20,6 +18,7 @@ SiwftPad is a simple Swift editor written in Swift. It uses [SourceKitten][sourc
 
 ## Screenshot
 Screenshot of the SwiftPad OS X app.
+
 <img src="./screenshot.png"/>
 
 ## Roadmap
