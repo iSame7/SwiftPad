@@ -1,3 +1,9 @@
+<h3 align="center">
+    <img src="./header.png" width="500" />
+    <br />
+  </a>
+</h3>
+
 # SwiftPad
 
 SiwftPad is a simple Swift editor written in Swift. It uses [SourceKitten][sourcekitten] to support syntax highlighting.
