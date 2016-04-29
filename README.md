@@ -12,7 +12,7 @@ SiwftPad is a simple Swift editor written in Swift. It uses [SourceKitten][sourc
 
 ## Screenshot
 Screenshot of the SwiftPad OS X app.
-<img src="./screenshot.png" />
+<img src="./screenshot.png" width="500" />
 
 ## Roadmap
 - [x] Swift syntax highlighting.
