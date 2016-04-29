@@ -6,8 +6,8 @@ SiwftPad is a simple Swift editor written in Swift. It uses [SourceKitten][sourc
 
 ## Roadmap
 - [x] Swift syntax highlighting.
-- [] Swift code folding.
-- [] Swift syntax Autocomplete.
-- [] Multi-Document (Tab interface).
-- [] Function List.
-- [] Column Mode Editing
+- [ ] Swift code folding.
+- [ ] Swift syntax Autocomplete.
+- [ ] Multi-Document (Tab interface).
+- [ ] Function List.
+- [ ] Column Mode Editing
