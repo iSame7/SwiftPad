@@ -8,7 +8,7 @@
 Marvel
 ========================
 
-[![Platform](https://img.shields.io/badge/os-Mac%20OS%20X-green.svg?style=flat)]
+![Mac OS X](https://img.shields.io/badge/os-Mac%20OS%20X-green.svg?style=flat)
 [![Language](http://img.shields.io/badge/language-swift-brightgreen.svg?style=flat
 )](https://developer.apple.com/swift)
 [![License](http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat
