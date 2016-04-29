@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img src="./header.png" width="500" />
+    <img src="./header.png" width="700" />
     <br />
   </a>
 </h3>
