@@ -1,0 +1,58 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E0A1DF5270ECB48D4D40DDE5EE92A1412C283922",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FD7DA18210A2C280E9107E37D7344F243FEE5F75" : 0,
+    "E084C86B03F81D63323C9E7510697EA528A758C7" : 0,
+    "EB2210CFD48672E403BED699D5D7F01B844069CF" : 0,
+    "E0A1DF5270ECB48D4D40DDE5EE92A1412C283922" : 0,
+    "D23C0CEAADB77074FDA4459000068A7940EB7AD0" : 0,
+    "956D2B21DD155C49504BB67697A67F7C5351A353" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0702034F-145D-438E-929B-C0420DD94156",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FD7DA18210A2C280E9107E37D7344F243FEE5F75" : "..\/..\/Swift\/Swift%20Editor\/SourceKitten",
+    "E084C86B03F81D63323C9E7510697EA528A758C7" : "..\/..\/Swift\/Swift%20Editor\/SourceKitten\/Carthage\/Checkouts\/xcconfigs",
+    "EB2210CFD48672E403BED699D5D7F01B844069CF" : "..\/..\/Swift\/Swift%20Editor\/SourceKitten\/Carthage\/Checkouts\/SWXMLHash",
+    "E0A1DF5270ECB48D4D40DDE5EE92A1412C283922" : "SwiftPad\/",
+    "D23C0CEAADB77074FDA4459000068A7940EB7AD0" : "..\/..\/Swift\/Swift%20Editor\/SourceKitten\/Carthage\/Checkouts\/Commandant",
+    "956D2B21DD155C49504BB67697A67F7C5351A353" : "..\/..\/Swift\/Swift%20Editor\/SourceKitten\/Carthage\/Checkouts\/Result"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SwiftPad",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SwiftPad.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/antitypical\/Result.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "956D2B21DD155C49504BB67697A67F7C5351A353"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Carthage\/Commandant.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D23C0CEAADB77074FDA4459000068A7940EB7AD0"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jspahrsummers\/xcconfigs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E084C86B03F81D63323C9E7510697EA528A758C7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iSame7\/SwiftPad.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E0A1DF5270ECB48D4D40DDE5EE92A1412C283922"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/drmohundro\/SWXMLHash.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB2210CFD48672E403BED699D5D7F01B844069CF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jpsim\/SourceKitten.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FD7DA18210A2C280E9107E37D7344F243FEE5F75"
+    }
+  ]
+}
